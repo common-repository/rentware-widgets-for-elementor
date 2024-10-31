@@ -1,0 +1,15 @@
+*** WordPress Plugin Template Changelog ***
+
+2024.05.16 - version 1.0.0
+ * Initial release
+
+2024.05.24 - version 1.0.1
+ * Add Tags to the readme file
+ * Add a banner image
+ * Replace screenshots that showcases Rentwares capabilities better
+
+2024.05.24 - version 1.0.2
+ * limit the plugin to 5 tags
+
+2024.05.24 - version 1.0.3
+ * FIX: Add missing version in main php file in order to show the latest version in the WordPress Plugin Directory

@@ -1,0 +1,36 @@
+.rw-options-page {
+    margin: auto;
+    max-width: 640px;
+}
+
+.rw-options-page .card {
+    max-width: none;
+}
+
+.rw-options-page__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rw-options-page__form__inner {
+    display: flex;
+    gap: 2rem;
+}
+
+.rw-options-page__label {
+    font-weight: 700;
+    white-space: nowrap;
+    margin-top: 0.25rem;
+}
+
+.rw-options-page__input {
+    width: 100%;
+}
+
+.rw-options-page__info {
+    max-width: none;
+    display: flex;
+    gap: 3rem;
+    align-items: start;
+}
